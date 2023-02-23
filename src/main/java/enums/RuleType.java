@@ -1,0 +1,5 @@
+package enums;
+
+public enum RuleType {
+    MAX_SALARY, SALARY_BETWEEN, DEPENDENTS_MORE_THEN_3, DEPENDENTS_LASS_THEN_3
+}
